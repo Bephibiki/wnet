@@ -6,7 +6,7 @@ SLIB=lib${EXEC}.so
 ALIB=lib${EXEC}.a
 OBJDIR=./obj/
 
-CC=gcc-9
+CC=gcc
 AR=ar
 ARFLAGS=rcs
 OPTS=-Ofast
